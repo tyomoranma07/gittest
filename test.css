@@ -1,0 +1,32 @@
+.content {
+    font-weight: normal;
+    font-size: x-large;
+    line-height: 200%;
+}
+.misaka {
+    font-weight:bold;
+}
+body {
+    text-align: center;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
+}
+header {
+    text-align:center;
+    background-color: ivory;
+    font-size: 70pt;
+    font-weight: bold;
+    padding: 100px 20px;
+    margin: 0px 0px;
+    border-bottom: 1px solid gray;
+}
+section{
+    margin: 0px 0px;
+    padding: 20px 0px;
+    height: 100%;
+}
+h1{
+    font-size: xx-large;
+}
