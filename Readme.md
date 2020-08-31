@@ -12,3 +12,5 @@ Gitインストールまで行けてよかった
 
 # visual studio Codeの練習
 練習
+
+github上で変更
